@@ -16,9 +16,9 @@ Numpy
 * [OpenCv](https://pypi.org/project/opencv-python/)</br>
 * [Numpy](https://pypi.org/project/numpy/)</br>
 ### Running
-Open command prompt(windows).</br>
-Go to directory where file is saved.</br>
-Type</br>
+* Open command prompt(windows).</br>
+* Go to directory where file is saved.</br>
+* Type</br>
 ```
 py lanes.py
 ```
