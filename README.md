@@ -12,13 +12,13 @@ OpenCV
 Numpy
 ```
 ### Installing
-(Python)[https://www.python.org/downloads/]
-(OpenCv)[https://pypi.org/project/opencv-python/]
-(Numpy)[https://pypi.org/project/numpy/]
+(Python) [https://www.python.org/downloads/]</br>
+(OpenCv) [https://pypi.org/project/opencv-python/]</br>
+(Numpy) [https://pypi.org/project/numpy/]</br>
 ### Running
-Open command prompt(windows).
-Go to directory where file is saved.
-Type
+Open command prompt(windows).</br>
+Go to directory where file is saved.</br>
+Type</br>
 ```
 py lanes.py
 ```
