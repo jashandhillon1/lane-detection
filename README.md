@@ -12,7 +12,7 @@ OpenCV
 Numpy
 ```
 ### Installing
-(Python) [https://www.python.org/downloads/]</br>
+(Python) [https://www.python.org]</br>
 (OpenCv) [https://pypi.org/project/opencv-python/]</br>
 (Numpy) [https://pypi.org/project/numpy/]</br>
 ### Running
@@ -24,4 +24,6 @@ py lanes.py
 ```
 ### Reference
 (This paper)[https://github.com/jashandhillon1/lane-detection/blob/master/IJIP-1114.pdf]
+http://github.com - automatic!
+[GitHub](http://github.com)
 
